@@ -73,7 +73,7 @@ public:
 
     bool Init()
     {
-        Vector3f Pos(0.0f, 3.0f, -1.0f);
+        Vector3f Pos(1.0f, 0.35f, 4.0f);
         Vector3f Target(0.0f, 0.0f, 1.0f);
         Vector3f Up(0.0, 1.0f, 0.0f);
 
@@ -142,7 +142,8 @@ public:
              
         Vector3f Pos(m_position);
         p.WorldPos(Pos);        
-        p.Rotate(270.0f, 180.0f, 0.0f);       
+        //p.Rotate(270.0f, 180.0f, 0.0f);
+	p.Rotate(270.0f, 270.0f, 10.0f);
         m_pEffect->SetWVP(p.GetWVPTrans());
         m_pEffect->SetWorldMatrix(p.GetWorldTrans());            
 
