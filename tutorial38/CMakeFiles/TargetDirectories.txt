@@ -1,0 +1,3 @@
+/home/mikel/ogldev-source/tutorial38/CMakeFiles/rebuild_cache.dir
+/home/mikel/ogldev-source/tutorial38/CMakeFiles/tutorial38.dir
+/home/mikel/ogldev-source/tutorial38/CMakeFiles/edit_cache.dir

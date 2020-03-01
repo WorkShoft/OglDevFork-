@@ -9,7 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="341ae9e0-995e-4e69-bcf4-645f46b1711b" name="Default Changelist" comment="" />
+    <list default="true" id="341ae9e0-995e-4e69-bcf4-645f46b1711b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,11 @@
   <component name="FavoritesManager">
     <favorites_list name="tutorial38" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Ww8l0KcUt8x1YO0PSollETPh5s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,8 +36,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/Debug/GNU-Linux/tutorial38" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Vulkan/examples/skeletalanimation/skeletalanimation.cpp" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/dist/Debug/GNU-Linux/tutorial38" EXPLICIT_BUILD_TARGET_NAME="all">
@@ -55,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580049444455</updated>
       <workItem from="1580049447086" duration="425000" />
+      <workItem from="1583059430868" duration="357000" />
     </task>
     <servers />
   </component>
@@ -70,13 +79,21 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="412" y="202" width="598" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1580049567646" />
-    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580049837367">
+    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583059485264">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1580049837367" />
-    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580049447620">
+    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1583059485264" />
+    <state width="640" height="195" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1583059491674">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1580049447620" />
+    <state width="640" height="195" key="ImportCMakeProjectWizard.bottomPanel/67.27.1299.741@67.27.1299.741" timestamp="1583059491674" />
+    <state width="640" height="455" key="ImportCMakeProjectWizard.topPanel" timestamp="1583059491673">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="640" height="455" key="ImportCMakeProjectWizard.topPanel/67.27.1299.741@67.27.1299.741" timestamp="1583059491673" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583059430926">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583059430926" />
   </component>
 </project>
