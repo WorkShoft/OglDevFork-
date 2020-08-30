@@ -75,7 +75,7 @@ uniform sampler2D gFontMap;                                                   \n
                                                                               \n\
 void main()                                                                   \n\
 {                                                                             \n\
-    vec4 Color = texture2D(gFontMap, TexCoordOut);                            \n\
+    vec4 Color = texture(gFontMap, TexCoordOut);                            \n\
     FragColor = vec4(Color.w) * ColorOut;                                     \n\
 }";
 
